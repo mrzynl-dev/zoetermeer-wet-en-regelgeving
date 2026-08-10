@@ -1,0 +1,62 @@
+# Project information
+site_name: Zoetermeer Roleplay – Wet en Regelgeving
+site_url: 'https://jouw-username.github.io/zoetermeer-wet-en-regelgeving/'
+site_description: 'Wet en regelgeving van Zoetermeer Roleplay'
+site_author: 'Zoetermeer Roleplay'
+
+# Copyright
+copyright: Copyright &copy; 2024 – 2026 Zoetermeer Roleplay
+
+# Repository (pas dit later aan naar jouw eigen GitHub repo)
+repo_url: 'https://github.com/JOUW-USERNAME/zoetermeer-wet-en-regelgeving'
+repo_name: 'zoetermeer-wet-en-regelgeving'
+edit_uri: 'edit/main/docs/'
+
+# Configuration
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  favicon: img/logo.png
+  logo: img/logo.png
+  custom_dir: docs/overrides
+  language: nl
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - header.autohide
+    - toc.follow
+    - content.action.edit
+    - content.action.view
+
+plugins:
+  - git-revision-date-localized:
+      type: timeago
+      timezone: Europe/Amsterdam
+      locale: nl
+      fallback_to_build_date: true
+  - search:
+      lang: nl
+
+markdown_extensions:
+  - admonition
+  - attr_list
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+
+nav:
+  - Home: index.md
+  - Algemene Plaatselijke Verordening: apv.md
+  - Wetboek: wetboek.md
