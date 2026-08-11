@@ -1,6 +1,6 @@
 # Wetboek Zoetermeer Roleplay
 
-## Informatie
+## Wetstechnische informatie
 
 | Onderdeel            | Gegevens                          |
 |----------------------|-----------------------------------|
