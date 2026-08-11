@@ -1,14 +1,15 @@
 # Algemene Plaatselijke Verordening Zoetermeer Roleplay
 
-## Wetstechnische informatie
+## Informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Zoetermeer Roleplay |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Zoetermeer Roleplay|
-| Citeertitel               | Algemene Plaatselijke Verordening Zoetermeer Roleplay|
-| Vastgesteld door          | De Hoge Raad|
-| Onderwerp                 | Openbare orde en veiligheid|
+| **Server**              | Zoetermeer Roleplay |
+| **Document**            | Algemene Plaatselijke Verordening (APV) |
+| **Status**              | Actief |
+| **Laatst bijgewerkt**   | Augustus 2026 |
+| **Opgesteld door**      | @MrzyNL / @silencio.nl
+ |
 
 ### Opmerkingen met betrekking tot de verordening
 
