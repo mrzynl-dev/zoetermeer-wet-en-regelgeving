@@ -406,4 +406,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---------------------
-APV opgesteld uit naam van de MrzyNL, bedoeld voor het eiland, de gemeente en de stad “Zoetermeer Roleplay”, 
+APV opgesteld uit naam van de @MrzyNL, bedoeld voor het eiland, de gemeente en de stad “Zoetermeer Roleplay”, 
