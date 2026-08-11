@@ -4,11 +4,11 @@
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Zoetermeer Roleplay |
-| Officiële naam            | Algemeen Wetboek Zoetermeer Roleplay |
-| Citeertitel               | Wetboek Zoetermeer Roleplay |
-| Vastgesteld door          | De Hoge Raad |
-| Onderwerp                 | Openbare orde en veiligheid |
+| **Server**              | Zoetermeer Roleplay |
+| **Document**            | Algemene Plaatselijke Verordening (APV) |
+| **Status**              | Actief |
+| **Laatst bijgewerkt**   | Augustus 2026 |
+| **Opgesteld door**      | @MrzyNL / @silencio.nl
 
 ## Algemene Bepalingen
 
