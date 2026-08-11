@@ -1,14 +1,14 @@
 # Wetboek Zoetermeer Roleplay
 
-## Wetstechnische informatie
+## Informatie
 
-| | |
-|---|---|
-| **Server**              | Zoetermeer Roleplay |
-| **Document**            | Algemene Plaatselijke Verordening (APV) |
-| **Status**              | Actief |
-| **Laatst bijgewerkt**   | Augustus 2026 |
-| **Opgesteld door**      | @MrzyNL / @silencio.nl
+| Onderdeel            | Gegevens                          |
+|----------------------|-----------------------------------|
+| **Server**           | Zoetermeer Roleplay               |
+| **Document**         | Algemene Plaatselijke Verordening (APV) |
+| **Status**           | Actief                            |
+| **Laatst bijgewerkt**| Augustus 2026                     |
+| **Opgesteld door**   | @MrzyNL / @silencio.nl            |
 
 ## Algemene Bepalingen
 
