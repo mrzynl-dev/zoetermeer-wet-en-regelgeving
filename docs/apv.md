@@ -9,7 +9,7 @@
 | **Status**              | Actief |
 | **Laatst bijgewerkt**   | Augustus 2026 |
 | **Opgesteld door**      | @MrzyNL / @silencio.nl
- |
+
 
 ### Opmerkingen met betrekking tot de verordening
 
