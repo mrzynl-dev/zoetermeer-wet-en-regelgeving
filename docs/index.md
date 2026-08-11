@@ -12,8 +12,9 @@ Zorg ervoor dat je, voordat je deelneemt aan Zoetermeer Roleplay, kennis hebt ge
 
 ## Discord
 
-Voeg hier later de officiële Discord-invite van Zoetermeer Roleplay toe.
 
 | Server | Beschrijving | Invite link |
 |--------|--------------|:-----------:|
-| Zoetermeer Roleplay | Main Discord server | *nog toe te voegen* |
+| Zoetermeer Roleplay | Main Discord server | https://discord.gg/zoetermeer |
+| Zoetermeer Support | Support Disocrd Server | https://discord.gg/PzHDhw8gg7 |
+| Zoetermeer Overheid | Overheids Discord Server | https://discord.gg/JmPZPycbQX |
