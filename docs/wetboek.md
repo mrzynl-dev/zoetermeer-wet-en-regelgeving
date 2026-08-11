@@ -3,7 +3,7 @@
 ## Wetstechnische informatie
 
 | | |
-|---|---|
+|---|
 | **Server**              | Zoetermeer Roleplay |
 | **Document**            | Algemene Plaatselijke Verordening (APV) |
 | **Status**              | Actief |
